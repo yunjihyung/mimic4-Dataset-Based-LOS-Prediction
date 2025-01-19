@@ -46,5 +46,11 @@
 ### 라이선스
 + 이 프로젝트는 MIT 라이선스를 따릅니다.
 
+### 참고자료
++ [MIMIC 4 피처 및 모듈 설명 document](https://mimic.mit.edu/docs/iv/modules/)
++ Los 예측 관련 논문
+  + [ICU 입원기간예측에대한응용, 컬럼비아대학](https://ar5iv.labs.arxiv.org/html/2401.00902)
+  + [Prediction of Intensive Care Unit Length of Stay in the MIMIC-IV Dataset](https://www.mdpi.com/2076-3417/13/12/6930)
+  
 ### 추가 자료
-+ 발표 자료는 DA_4-2.pdf 파일에서 확인할 수 있습니다.
++ 발표 자료는 24-2 데이터애널리틱스_2조.pdf 파일에서 확인할 수 있습니다.
